@@ -5,7 +5,6 @@ public class Product {
 	String description;
 
 	public Product(String productnumber, double price, String description) {
-		super();
 		this.productnumber = productnumber;
 		this.price = price;
 		this.description = description;
